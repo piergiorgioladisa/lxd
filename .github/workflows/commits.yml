@@ -9,6 +9,7 @@ concurrency:
 permissions:
   contents: read
 
+
 jobs:
   commits:
     name: Branch target and CLA
